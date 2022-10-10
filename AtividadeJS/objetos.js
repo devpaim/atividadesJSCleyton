@@ -5,10 +5,8 @@ let apartamento = {
   Cozinha: 1,
   AreaLazer: '20m²',
   Garagem: '2 Carros',
-
   corParedeBanheiros: 'azul',
   corParedeQuartos: 'Cinza',
-
   Cozinha: {
     MesaMamore: '20 metros',
     Geladeira: {
@@ -28,5 +26,4 @@ let apartamento = {
     Frigobar: '10 litros'
   }
 }
-
 console.log(apartamento)

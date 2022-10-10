@@ -1,5 +1,3 @@
-.titulo {
-  color: blue;
-  font-weight: 900;
-  font-size: 50px;
+#resultado {
+  background-color: whitesmoke;
 }
